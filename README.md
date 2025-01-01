@@ -1,4 +1,4 @@
-###PASSWORD-MANAGER
+# PASSWORD-MANAGER
 
 下記の課題ステップ2を遂行しました。
 
