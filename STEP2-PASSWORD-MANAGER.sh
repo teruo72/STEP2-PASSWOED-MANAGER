@@ -21,6 +21,7 @@ do
 		read password
 		
 		echo -e "サービス名:$service""\n""ユーザー名:$user""\n""パスワード:$password" >> data.csv
+
 		echo "パスワードの追加は成功しました。"
 
 	elif [ "$answer" = "Get Password" ]; then
